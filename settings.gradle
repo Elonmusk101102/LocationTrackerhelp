@@ -1,0 +1,3 @@
+include ':traker'
+include ':app'
+rootProject.name = "tracker"
